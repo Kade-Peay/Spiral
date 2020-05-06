@@ -5,7 +5,7 @@ t = turtle.Turtle()
 wn = turtle.Screen()
 
 def draw():
-    colors = ['blue', 'red', 'green', 'yellow', 'orange', 'brown']
+    colors = ['blue', 'purple', 'red', 'yellow', 'orange', 'green']
 
     t.pensize(5)
     wn.bgcolor('black')

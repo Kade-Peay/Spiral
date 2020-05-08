@@ -4,7 +4,7 @@ import time
 t = turtle.Turtle()
 wn = turtle.Screen()
 
-def draw():
+def draw(): 
     colors = ['blue', 'purple', 'red', 'yellow', 'orange', 'green',]
 
     t.pensize(5)
